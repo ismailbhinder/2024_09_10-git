@@ -1,5 +1,7 @@
 # 2024_09_10-git
 
+LOcal changes
+
 git init; intializes new git repositiory in the current directory
 
 git remote add origin <remote url>; adds a rmeote repository called origin with the specified URl
